@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Kal!;I'm+a+Front-End+Developer...;I'm+also+mechatroniccs+Engineer+And+I'm+a+proud+Ethiopian+ET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Kal!;I'm+a+Front-End+Developer...;I'm+also+mechatroniccs+Engineer+.;And+I'm+a+proud+Ethiopian+ET)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=daxsum&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
