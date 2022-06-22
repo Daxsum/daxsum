@@ -13,15 +13,15 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
+- 🔭 I’m currently working on Front-End Projects.
+- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built beautiful web design with User design thinking.
+- 👯 I’m looking to collaborate on html,css,sass,javascript,typescript,React,next.js Projects
+- 🤔 I’m also working as a Freelancer at Upwork and Fiverr.
+- 💬 Ask me about Programming or web development
 - 📫 I am also a technical writer at Medium 
--  📰 Articles: 
+<!-- -  📰 Articles: 
 	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
-	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010)
+	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010) -->
 
 <p>Connect with me on
 <br>	
@@ -51,17 +51,25 @@
 <p align="left"> 
   
 
-  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+    <img alt="HTML" src="https://img.shields.io/twitter/url?color=black&label=HTML&logo=HTML&logoColor=blue&style=social&url=https%3A%2F%2Freactjs.org%2F"/>
   </a>
 &emsp;
-<a href="https://python.org/">
+	 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="HTML" src="https://img.shields.io/twitter/url?color=black&label=CSS&logo=CSS&logoColor=blue&style=social&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS"/>
+  </a>
+&emsp;
+	  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" src="https://img.shields.io/twitter/url?color=black&label=javaScript&logo=javascript&logoColor=yellow&style=social&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript"/>
+  </a>
+&emsp;
+
+
+
+	<a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
-  &emsp;
-<a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
+  
 
 
 </p>
@@ -69,29 +77,21 @@
 ### 👉 Frameworks
 <p align="left"> 
 &emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
+ <a href="https://reactjs.org/">
+    <img alt="React" src="https://img.shields.io/twitter/url?color=black&label=React&logo=react&logoColor=blue&style=social&url=https%3A%2F%2Freactjs.org%2F"/>
+  </a>
+  &emsp; 
+	 <a href="https://flutter.dev/" target="_blank"> 
      <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
    </a>
   &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
-   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
-  </a> 
-   &emsp;
-  <a href="https://keras.io/" target="_blank"> 
-    <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
-  </a>
-  &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
-    <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
-  </a>
+  
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
+	  &emsp;
+<a href="https://www.mongodb.com/"><img alt="mongoDB" src ="https://img.shields.io/twitter/url?color=black&label=MongoDB&logo=MongoDB&logoColor=blue&style=social&url=https%3A%2F%2Fwww.mongodb.com%2Fcloud%2Fatlas%2Flp%2Ftry2%3Futm_source%3Dgoogle%26utm_campaign%3Dgs_footprint_row_search_core_brand_atlas_desktop%26utm_term%3Dmongodb%26utm_medium%3Dcpc_paid_search%26utm_ad%3De%26utm_ad_campaign_id%3D12212624584%26adgroup%3D115749713703%26gclid%3DCjwKCAjw-8qVBhANEiwAfjXLrpiLd_UKkZGLfhvRrGYHq2JtoJ1vAoy1RR5tVkqeXYO8RNT9tcqPnxoC3A8QAvD_BwE"></a>
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   &emsp;
