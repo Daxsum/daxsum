@@ -51,15 +51,15 @@
   
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-    <img alt="HTML" src="https://img.shields.io/twitter/url?color=black&label=HTML&logo=HTML&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FHTML%2F"/>
+    <img alt="HTML" src="https://img.shields.io/twitter/url?color=orange&label=HTML&logo=HTML&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FHTML%2F"/>
   </a>
 &emsp;
 	 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="HTML" src="https://img.shields.io/twitter/url?color=black&label=CSS&logo=CSS&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS"/>
+    <img alt="CSS" src="https://img.shields.io/twitter/url?color=red&label=CSS&logo=CSS&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS"/>
   </a>
 &emsp;
 	  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" src="https://img.shields.io/twitter/url?color=black&label=JavaScript&logo=JavaScript&logoColor=Yellow&style=for-the-badge&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript"/>
+    <img alt="JavaScript" src="https://img.shields.io/twitter/url?color=blue&label=JavaScript&logo=JavaScript&logoColor=Yellow&style=for-the-badge&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript"/>
   </a>
 &emsp;
 
