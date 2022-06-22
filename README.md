@@ -5,7 +5,6 @@
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/daxsum?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Kal!;I'm+a+Front-End+Developer...;I'm+also+mechatroniccs+Engineer;And+I'm+a+proud+Ethiopian+ET)](https://git.io/typing-svg)
 
@@ -52,23 +51,23 @@
   
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-    <img alt="HTML" src="https://img.shields.io/twitter/url?color=black&label=HTML&logo=HTML&logoColor=blue&style=social&url=https%3A%2F%2Freactjs.org%2F"/>
+    <img alt="HTML" src="https://img.shields.io/twitter/url?color=black&label=HTML&logo=HTML&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FHTML%2F"/>
   </a>
 &emsp;
 	 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img alt="HTML" src="https://img.shields.io/twitter/url?color=black&label=CSS&logo=CSS&logoColor=blue&style=social&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS"/>
+    <img alt="HTML" src="https://img.shields.io/twitter/url?color=black&label=CSS&logo=CSS&logoColor=orange&style=for-the-badge&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FCSS"/>
   </a>
 &emsp;
 	  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img alt="JavaScript" src="https://img.shields.io/twitter/url?color=black&label=javaScript&logo=javascript&logoColor=yellow&style=social&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript"/>
+    <img alt="JavaScript" src="https://img.shields.io/twitter/url?color=black&label=JavaScript&logo=JavaScript&logoColor=Yellow&style=for-the-badge&url=https%3A%2F%2Fdeveloper.mozilla.org%2Fen-US%2Fdocs%2FWeb%2FJavaScript"/>
   </a>
 &emsp;
 
 
 
-	<a href="https://python.org/">
+<!-- 	<a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
-  </a>
+  </a> -->
   
 
 
