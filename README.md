@@ -133,6 +133,6 @@
     
 </p>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
+<img src="https://github-profile-trophy.vercel.app/?username=daxsum&theme=gruvbox" />
 
 
