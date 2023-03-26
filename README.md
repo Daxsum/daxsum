@@ -6,15 +6,15 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Kal!;I'm+a+Front-End+Developer...;I'm+also+graphics+designer+.;And+I'm+a+proud+Ethiopian+ET)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Kal!;I'm+a+Full-Stack+Developer...;I'm+also+graphics+designer+.;And+I'm+a+proud+Ethiopian+ET)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=daxsum&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Front-End Projects.
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built beautiful web design with User design thinking.
-- 👯 I’m looking to collaborate on html,css,sass,javascript,typescript,React,next.js Projects
+- 🌱 I've 8+ months of professional experience worked innovative Solutions and built beautiful web design with User design thinking.
+- 👯 I’m looking to collaborate on html,css,sass,javascript,typescript,React,next.js,node.js and express.js Projects
 - 🤔 I’m also working as a Freelancer at Upwork and Fiverr.
 - 💬 Ask me about Programming or web development
 - 📫 I am also a technical writer at Medium 
