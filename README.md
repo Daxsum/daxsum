@@ -12,8 +12,8 @@
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Front-End Projects.
-- 🌱 I've 8+ months of professional experience worked innovative Solutions and built beautiful web design with User design thinking.
+- 🔭 I’m currently working on Full-Stack TypeScript Projects.
+- 🌱 I've 3+ years of professional experience worked innovative Solutions and built beautiful web design with User design thinking.
 - 👯 I’m looking to collaborate on html,css,sass,javascript,typescript,React,next.js,node.js and express.js Projects
 - 🤔 I’m also working as a Freelancer at Upwork and Fiverr.
 - 💬 Ask me about Programming or web development
