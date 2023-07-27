@@ -63,10 +63,10 @@
   </a>
 &emsp;
 
-	<a href="https://python.org/">
+<a href="https://python.org/">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
-  
+  &emsp;
 
 
 </p>
