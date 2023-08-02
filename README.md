@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=daxsum&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
-<h3> Here's some fun facts about me: </h3>
+<h3> Here are some fun facts about me: </h3>
 
 - 🔭 I’m currently working on Full-Stack TypeScript Projects.
 - 🌱 I've 4+ years of professional experience worked innovative Solutions and built beautiful web design with User design thinking.
